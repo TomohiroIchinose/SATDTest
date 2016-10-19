@@ -8,7 +8,6 @@ public class Hajimete {
 	// at a loss #3
         System.out.println("Good afternoon, world.");
 
-	// stupid #4
         System.out.println("Good evening, world.");
 
         System.out.println("Good night, world.");
