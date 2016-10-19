@@ -11,7 +11,6 @@ public class Hajimete {
 	// stupid #4
         System.out.println("Good evening, world.");
 
-	// remove this code #5
         System.out.println("Good night, world.");
 
 	
