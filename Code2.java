@@ -10,7 +10,7 @@ public class Hajimete {
 	// nuke #9
         System.out.println("Good evening, NAIST.");
 
-	// is problematic #10
+	// removed
         System.out.println("Good night, NAIST.");
 
 	
