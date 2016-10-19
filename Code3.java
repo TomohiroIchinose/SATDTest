@@ -11,7 +11,7 @@ public class Hajimete {
 	// treat this as a soft error #14
         System.out.println("Good evening, Ikoma.");
 
-	// silly #15
+        System.out.println("Good night, Nara.");
         System.out.println("Good night, Ikoma.");
 
 	
