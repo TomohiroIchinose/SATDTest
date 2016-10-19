@@ -5,7 +5,6 @@ public class Hajimete {
 
 	System.out.println("Good morning, world.");
 
-	// at a loss #3
         System.out.println("Good afternoon, world.");
 
 	// removed
