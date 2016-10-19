@@ -3,7 +3,6 @@ public class Hajimete {
 	// removed 
 	System.out.println("Good morning, world.");
 
-	// hack #2
 	System.out.println("Good morning, world.");
 
 	// at a loss #3
