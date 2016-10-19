@@ -7,7 +7,7 @@ public class Hajimete {
 	// removed #8
         System.out.println("Good afternoon, NAIST.");
 
-	// nuke #9
+	// removed
         System.out.println("Good evening, NAIST.");
 
 	// removed
