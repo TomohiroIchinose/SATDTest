@@ -3,7 +3,7 @@ public class Hajimete {
 	// hack #1
 	System.out.println("Good morning, world.");
 
-	// retarded #2
+	// hack #2
 	System.out.println("Good morning, world.");
 
 	// at a loss #3
