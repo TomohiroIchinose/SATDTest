@@ -6,5 +6,6 @@ public class Hajimete {
 		fixme
 	*/
 	System.out.println("http://fixme.com");
+	System.out.println("http://fixme.com");
     }
 }
